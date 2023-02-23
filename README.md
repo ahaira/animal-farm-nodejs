@@ -2,8 +2,6 @@ A sample Express application written in Node.js for a Github README post.
 
 
 
-
-
 ##  Prerequisites
 
 * Node.js
